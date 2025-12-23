@@ -1,4 +1,4 @@
-name: Build and Release Binaries
+name: Build and Release Binaries for 3 systems - Mac, Linux and Windows
 
 on:
   push:
